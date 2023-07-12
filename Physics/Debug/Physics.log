@@ -1,0 +1,44 @@
+﻿  Application.cpp
+  Assignment2.cpp
+C:\Users\User\Downloads\DM2212_PhysicsA2\Physics\Source\Assignment2.cpp(44,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\DM2212_PhysicsA2\Physics\Source\Assignment2.cpp(46,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\DM2212_PhysicsA2\Physics\Source\Assignment2.cpp(49,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\DM2212_PhysicsA2\Physics\Source\Assignment2.cpp(51,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\DM2212_PhysicsA2\Physics\Source\Assignment2.cpp(130,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\DM2212_PhysicsA2\Physics\Source\Assignment2.cpp(130,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\DM2212_PhysicsA2\Physics\Source\Assignment2.cpp(220,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\DM2212_PhysicsA2\Physics\Source\Assignment2.cpp(250,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Downloads\DM2212_PhysicsA2\Physics\Source\Assignment2.cpp(294,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\DM2212_PhysicsA2\Physics\Source\Assignment2.cpp(294,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\DM2212_PhysicsA2\Physics\Source\Assignment2.cpp(301,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\DM2212_PhysicsA2\Physics\Source\Assignment2.cpp(301,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\DM2212_PhysicsA2\Physics\Source\Assignment2.cpp(512,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\DM2212_PhysicsA2\Physics\Source\Assignment2.cpp(548,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Camera.cpp
+  GameObject.cpp
+  LoadOBJ.cpp
+  LoadTexture.cpp
+  LoadTGA.cpp
+  main.cpp
+  Mesh.cpp
+  MeshBuilder.cpp
+  SceneBase.cpp
+  SceneCollision.cpp
+C:\Users\User\Downloads\DM2212_PhysicsA2\Physics\Source\SceneCollision.cpp(115,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\DM2212_PhysicsA2\Physics\Source\SceneCollision.cpp(115,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\DM2212_PhysicsA2\Physics\Source\SceneCollision.cpp(196,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\DM2212_PhysicsA2\Physics\Source\SceneCollision.cpp(226,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Downloads\DM2212_PhysicsA2\Physics\Source\SceneCollision.cpp(270,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\DM2212_PhysicsA2\Physics\Source\SceneCollision.cpp(270,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\DM2212_PhysicsA2\Physics\Source\SceneCollision.cpp(277,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\DM2212_PhysicsA2\Physics\Source\SceneCollision.cpp(277,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\DM2212_PhysicsA2\Physics\Source\SceneCollision.cpp(451,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\DM2212_PhysicsA2\Physics\Source\SceneCollision.cpp(457,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  shader.cpp
+  SpriteAnimation.cpp
+  Utility.cpp
+  Generating Code...
+C:\Users\User\Downloads\DM2212_PhysicsA2\Physics\Source\SceneCollision.cpp(384): warning C4715: 'SceneCollision::CheckCollision': not all control paths return a value
+C:\Users\User\Downloads\DM2212_PhysicsA2\Physics\Source\Assignment2.cpp(418): warning C4715: 'Assignment2::CheckCollision': not all control paths return a value
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Physics.vcxproj -> C:\Users\User\Downloads\DM2212_PhysicsA2\Debug\Physics.exe
